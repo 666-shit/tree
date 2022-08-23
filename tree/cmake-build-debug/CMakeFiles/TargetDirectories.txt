@@ -1,4 +1,0 @@
-D:/CLion/tree/cmake-build-debug/CMakeFiles/tree.dir
-D:/CLion/tree/cmake-build-debug/CMakeFiles/tree-2.dir
-D:/CLion/tree/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/CLion/tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
